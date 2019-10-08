@@ -174,3 +174,23 @@ a {
 a:hover, a:focus, a:active {
   color: #4e535a;
 }
+
+.skill {
+  background-color: #374457;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 10px;
+}
+
+.skillList {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center
+}
+
+.fa-home:hover {
+  color: rgba(255, 255, 255, 0.2);
+}
