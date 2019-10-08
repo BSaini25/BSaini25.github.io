@@ -176,6 +176,7 @@ a:hover, a:focus, a:active {
 }
 
 .skill {
+  width: 80%;
   background-color: #374457;
   color: white;
   padding: 10px;
