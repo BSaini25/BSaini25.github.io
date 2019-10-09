@@ -176,13 +176,13 @@ a:hover, a:focus, a:active {
 }
 
 .skill {
-  width: 80%;
+  width: 50%;
   background-color: #374457;
   color: white;
   padding: 5%;
   text-align: center;
   font-size: 16px;
-  margin: 16px auto
+  margin: 15% auto
 }
 
 .skillList {
