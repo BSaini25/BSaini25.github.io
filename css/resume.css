@@ -186,20 +186,8 @@ a:hover, a:focus, a:active {
   margin: 8% auto
 }
 
-.skillList {
-  display: inline-flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: center
-}
-
 .fa-home:hover {
   color: rgba(255, 255, 255, 0.2);
-}
-
-.no-gutters {
-  margin-right: 0;
-  margin-left: 0;
 }
 
 .img-fluid {
